@@ -1,0 +1,31 @@
+{
+	"name": "Just for kicks",
+	"albumCover": "/albumCovers/DiariesOfAHero.png",
+	"releaseYear": "2014",
+	"tracks": [
+		 {
+			  "id": 1,
+			  "author": "Apocalyptica",
+			  "name": "I don't care",
+			  "path": "/songs/apocalyptica-feat_-adam-gontier-i-dont-care.mp3"
+		 },
+		 {
+			  "id": 2,
+			  "author": "Linkin Park",
+			  "name": "New devide",
+			  "path": "/songs/Linkin Park - New Divide.mp3"
+		 },
+		 {
+			  "id": 3,
+			  "author": "Linkin Park",
+			  "name": "Numb",
+			  "path": "/songs/Linkin Park - Numb.mp3"
+		 },
+		 {
+			  "id": 4,
+			  "author": "System of a Down",
+			  "name": "Aerials",
+			  "path": "/songs/System_of_a_Down-Aerials-world74.spcs.bio.mp3"
+		 }
+		]
+}
