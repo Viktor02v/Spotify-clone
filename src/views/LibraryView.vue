@@ -59,7 +59,7 @@
 				</div>
 
 				<div>
-					<ClockTimeThreeOutLine fillColor="#FFFFFF" :size="18" />
+					<!-- <ClockTimeThreeOutLine fillColor="#FFFFFF" :size="18" /> -->
 				</div>
 			</div>
 
@@ -82,7 +82,7 @@ import Play from 'vue-material-design-icons/Play.vue'
 import Pause from 'vue-material-design-icons/Pause.vue'
 import DotsHorizontal from 'vue-material-design-icons/DotsHorizontal.vue'
 import Heart from 'vue-material-design-icons/Heart.vue'
-import ClockTimeThreeOutLine from 'vue-material-design-icons/ClockTimeThreeOutLine.vue'
+// import ClockTimeThreeOutLine from 'vue-material-design-icons/ClockTimeThreeOutLine.vue'
 import artist from '../artist.json'
 
 import { useSongStore } from '../stores/song'
